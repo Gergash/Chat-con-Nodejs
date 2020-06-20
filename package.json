@@ -1,0 +1,36 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "un chat tipo telegram ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gergash/Chat-con-Nodejs.git"
+  },
+  "keywords": [
+    "chat",
+    "telegram",
+    "server",
+    "backend",
+    "node\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+    "\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D",
+    "\u001b[C\u001b[D\u001b[D\u001b[C",
+    "\u001b[D\u001b[\u001b[\u001b[2~\u001b[C\u001b\u001b\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[",
+    "chat",
+    "telegram",
+    "nodejs",
+    "backend"
+  ],
+  "author": "Geronimo saldana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gergash/Chat-con-Nodejs/issues"
+  },
+  "homepage": "https://github.com/Gergash/Chat-con-Nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
